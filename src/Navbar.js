@@ -12,7 +12,7 @@ const Navbar = () => {
     }
   return (
     <nav className={toggle? 'navbar expanded': 'navbar'}>
-     <h2 className='logo'>Qubernet inc</h2>
+     <h2 className='logo'>Qubernet incc</h2>
      <ul className='links'>
         <li>Home</li>
         <li>Service</li>
